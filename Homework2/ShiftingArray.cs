@@ -90,7 +90,7 @@ namespace Homework2
                 span[right] = temp;
 
                 left++;
-                right--;
+                right--; //right
             }
         }
     }
