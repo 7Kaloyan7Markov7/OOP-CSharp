@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Homework2
 {
-
+    #test
     internal class ShiftingArray
     {
         internal enum RotationDirection
